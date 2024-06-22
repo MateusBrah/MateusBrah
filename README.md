@@ -7,28 +7,31 @@
 
 ### Tecnologias que uso.
 <div style="display: inline_block"><br/>
-    <a href="https://github.com/MateusBrah">
-        <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </a>
-    <a href="https://github.com/MateusBrah">
-        <img align="center" alt="typeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-    </a>
-    <a href="https://github.com/MateusBrah">
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
-    </a>
-    <a href="https://github.com/MateusBrah">
-        <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-    </a>
-    <a href="https://github.com/MateusBrah">
-        <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
-    </a>
-   <a href="https://github.com/MateusBrah"> 
-       <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   </a>
-   <a href="https://github.com/MateusBrah">
-       <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-   </a>
-   <a href="https://github.com/MateusBrah">
-       <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="typeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+  </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
+  </a>
+  <a href="https://github.com/MateusBrah"> 
+    <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://github.com/MateusBrah">
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
 </div>
