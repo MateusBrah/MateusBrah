@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=mateusbrah&label=Visualizações&color=0e75b6&style=flat" alt="mateusbrah" />
 </p>
 
-<h3 align="center">Um apaixonado desenvolvedor full-stack do Brasil 🇧🇷</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/mateusdamasceno" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,9 +15,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusbrah&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</div>
 
 <h2 align="center">🚀 Tecnologias que domino</h2>
 
